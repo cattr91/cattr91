@@ -17,6 +17,8 @@
 <a href='https://www.researchgate.net/profile/Caterina-Giacomelli'>
     <img src='https://img.shields.io/badge/-ResearchGate-green?20201217223315?style=flat&logo=ResearchGate&logoColor=white&&color=green'>
 </a>
+
+<br/> 
 <!-- <a href="https://gkos.dev">
     <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
 </a>  -->
@@ -26,8 +28,6 @@
 <!-- <a href="https://pypi.org/user/drkostas/">
     <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a> -->
-
-<br/> 
 
 ![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
 
