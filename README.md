@@ -1,24 +1,6 @@
-###
+![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
 
-<!--
-**cattr91/cattr91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![cattr91's GitHub stats](https://github-readme-stats.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
-
-<!-- ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cattr91&size_weight=0.5&count_weight=0.5)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cattr91&layout=donut)](https://github.com/cattr91/github-readme-stats) -->
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91)](https://github.com/cattr91/cattr91)
+![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91&size_weight=0.5&count_weight=0.5)
