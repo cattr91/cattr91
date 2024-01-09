@@ -5,7 +5,7 @@
 
 <br>
 
-<a href="https://www.icloud.com/iclouddrive/0e0IgRmKLftIGXzNt9jGWSOGw#CV-Giacomelli-202309">
+<a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:885cba94-8c74-4a09-8963-1490de7c8c0e">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://www.linkedin.com/in/caterina-giacomelli-79635571">
