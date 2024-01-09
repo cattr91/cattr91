@@ -17,7 +17,7 @@
 <a href="mailto:c.giacomelli1@icloud.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='[https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra](https://www.researchgate.net/profile/Caterina-Giacomelli)' target="_blank">
+<a href='https://www.researchgate.net/profile/Caterina-Giacomelli' target="_blank">
     <img alt='ResearchGate' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png?20201217223315'>
 </a>
 <!-- <a href="https://pypi.org/user/drkostas/">
