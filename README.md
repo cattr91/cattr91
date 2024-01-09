@@ -1,6 +1,6 @@
 
 <a href="https://github.com/cattr91">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Caterina+Giacomelli;Data+Science+%7C+Physics;Geological+Environmental+Analytics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Caterina+Giacomelli;Data+Science+%7C+Physics;Geological%26Environmental+Analytics" alt="Typing SVG" />
 </a>
 
 <br>
@@ -22,6 +22,8 @@
 
 ## Github Stats
 
-![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
+<div>
+    <img src="https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical" alt="cattr91's GitHub stats" style="display: inline-block;">
+    <img src="https://cattr91.vercel.app/api/top-langs/?username=cattr91&layout=donut" alt="Top Langs" style="display: inline-block;">
+</div>
 
-[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91&layout=donut)](https://github.com/cattr91/cattr91)
