@@ -27,8 +27,8 @@
 
 [![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91&layout=donut)](https://github.com/cattr91/cattr91)
 
-<img src="./tests/img/topics-plot-donut-04.png" width="500" height="300">
-<!-- ![donut-topics](/tests/img/topics-plot-donut-04.png) -->
+<!-- <img src="./tests/img/topics-plot-donut-04.png" width="500" height="300"> -->
+![donut-topics](/tests/img/topics-plot-donut-04.png)
 
 
 <!-- <div style="display: flex; justify-content: center; gap: 20px; margin-top: 50px; margin-bottom: 50px;">
