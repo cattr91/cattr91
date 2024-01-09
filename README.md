@@ -1,4 +1,4 @@
-<p align="center">
+
 <a href="https://github.com/cattr91">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Caterina+Giacomelli;Data+Science%7C+Physics;Geological+Environmental+Analytics" alt="Typing SVG" />
 </a>
@@ -19,17 +19,6 @@
 </a>
 
 <br/> 
-<!-- <a href="https://gkos.dev">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
-</a>  -->
-<!-- <a href="https://pypi.org/user/drkostas/">
-    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
-</a> -->
-<!-- <a href="https://pypi.org/user/drkostas/">
-    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
-</a> -->
-
-</p>
 
 ![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
 
