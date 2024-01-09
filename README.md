@@ -21,7 +21,7 @@
 
 <!-- [![Readme Card](https://cattr91.vercel.app/api/pin/?username=cattr91&repo=cattr91)](https://github.com/cattr91/cattr91) -->
 
-## GitHub Stats
+### GitHub Stats
 
 Main Topics: rounout-calculation, forecasting, point-clouds, landslide-prediction, runout-calculation, exploratory-data-analysis, pca, geoapp, detection-algorithm, medical-image-analysis, photonic-simulation, biosensors, landslide-themes, inverse-velocity.
 
