@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href='[https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra](https://www.researchgate.net/profile/Caterina-Giacomelli)' target="_blank">
-    <img alt='ResearchGate' src='[https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png)'>
+    <img alt='ResearchGate' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png'>
 </a>
 <!-- <a href="https://pypi.org/user/drkostas/">
     <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
