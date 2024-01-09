@@ -1,3 +1,14 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+  "functions": {
+    "api/*.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/cattr91/cattr91.git"
+    }
+  ]
 }
