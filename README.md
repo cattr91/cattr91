@@ -1,6 +1,6 @@
 
 <a href="https://github.com/cattr91">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=500&height=80&lines=Caterina+Giacomelli;;Data+Science%7C+Physics;Geological+Environmental+Analytics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Caterina+Giacomelli;Data+Science%7C+Physics;Geological+Environmental+Analytics" alt="Typing SVG" />
 </a>
 
 <br>
