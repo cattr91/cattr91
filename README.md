@@ -20,6 +20,8 @@
 
 <br><br>
 
+[![Readme Card](https://cattr91.vercel.app/api/pin/?username=cattr91&repo=cattr91)](https://github.com/cattr91/cattr91)
+
 ## GitHub Stats
 
 ![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
