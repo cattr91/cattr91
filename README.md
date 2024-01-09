@@ -5,7 +5,7 @@
 
 <br>
 
-<a href="https://gkos.dev/Resume.pdf">
+<a href="https://www.icloud.com/iclouddrive/0e0IgRmKLftIGXzNt9jGWSOGw#CV-Giacomelli-202309">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://www.linkedin.com/in/caterina-giacomelli-79635571">
