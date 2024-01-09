@@ -23,7 +23,7 @@
 
 ### GitHub Stats
 
-<img src="./tests/img/topics-plot.png" width="400" height="500">
+<img src="./tests/img/topics-plot.png" width="500" height="400">
 
 ![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
 
