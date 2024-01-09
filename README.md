@@ -5,9 +5,6 @@
 
 <br/>
 
-<!-- <a href="https://gkos.dev">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
-</a>  -->
 <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
@@ -20,6 +17,9 @@
 <a href='https://www.researchgate.net/profile/Caterina-Giacomelli' target="_blank">
     <img src='https://img.shields.io/badge/-ResearchGate-green?20201217223315?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
+<!-- <a href="https://gkos.dev">
+    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+</a>  -->
 <!-- <a href="https://pypi.org/user/drkostas/">
     <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a> -->
