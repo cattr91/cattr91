@@ -1,4 +1,3 @@
-
 <a href="https://github.com/cattr91">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Caterina+Giacomelli;Data+Science+%7C+Physics;Geological+%26+Environmental+Analytics" alt="Typing SVG" />
 </a>
@@ -20,7 +19,7 @@
 
 <br><br>
 
-[![Readme Card](https://cattr91.vercel.app/api/pin/?username=cattr91&repo=cattr91)](https://github.com/cattr91/cattr91)
+<!-- [![Readme Card](https://cattr91.vercel.app/api/pin/?username=cattr91&repo=cattr91)](https://github.com/cattr91/cattr91) -->
 
 ## GitHub Stats
 
