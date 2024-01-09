@@ -8,14 +8,14 @@
 <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
-<a href="[https://www.linkedin.com/in/gkos/](https://www.linkedin.com/in/caterina-giacomelli-79635571/)">
+<a href="https://www.linkedin.com/in/caterina-giacomelli-79635571">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:c.giacomelli1@icloud.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='https://www.researchgate.net/profile/Caterina-Giacomelli' target="_blank">
-    <img src='https://img.shields.io/badge/-ResearchGate-green?20201217223315?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+<a href='https://www.researchgate.net/profile/Caterina-Giacomelli'>
+    <img src='https://img.shields.io/badge/-ResearchGate-green?20201217223315?style=flat&logo=ResearchGate&logoColor=white&&color=green'>
 </a>
 <!-- <a href="https://gkos.dev">
     <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
