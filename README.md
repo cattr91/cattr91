@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Caterina+Giacomelli;Data+Science%7C+Physics;Geological+Environmental+Analytics" alt="Typing SVG" />
 </a>
 
-<br/>
+<br>
 
 <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
@@ -18,7 +18,9 @@
     <img src='https://img.shields.io/badge/-ResearchGate-green?20201217223315?style=flat&logo=ResearchGate&logoColor=white&&color=green'>
 </a>
 
-<br/> 
+<br> 
+
+## Github Stats
 
 ![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
 
