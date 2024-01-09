@@ -29,6 +29,8 @@
     <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a> -->
 
+</p>
+
 ![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
 
 [![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91&layout=donut)](https://github.com/cattr91/cattr91)
