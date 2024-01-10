@@ -25,7 +25,7 @@
 
 ![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
 
-![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91&layout=donut)
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91&layout=donut)](https://github.com/cattr91/cattr91)
 
 <img src="./tests/img/topics-plot-donut-04.png" width="580" height="300">
 <!-- ![donut-topics](/tests/img/topics-plot-donut-04.png) -->
