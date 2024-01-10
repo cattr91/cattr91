@@ -27,7 +27,7 @@
 
 ![](http://cattr91.vercel.app/api/cards/repos-per-language?username=cattr91&theme=dracula) 
 
-![cattr91's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical)
+![cattr91's GitHub stats](https://cattr91.vercel.app/api/cards/?username=cattr91&show_icons=true&theme=radical)
 
 [![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91&layout=donut)](https://github.com/cattr91/cattr91)
 
