@@ -1,26 +1,26 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/cattr91/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Readme'lerinizde dinamik olarak oluşturulmuş GitHub istatistikleri alın!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/cattr91/cattr91/actions">
+      <img alt="Tests Passing" src="https://github.com/cattr91/cattr91/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+    <a href="https://github.com/cattr91/cattr91/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/cattr91/cattr91" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/cattr91/cattr91">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/cattr91/cattr91/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/cattr91/cattr91/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/cattr91/cattr91?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/cattr91/cattr91/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/cattr91/cattr91?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/cattr91/cattr91">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/cattr91/cattr91/badge" />
     </a>
     <br />
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#demo">Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Hata İlet</a>
+    <a href="https://github.com/cattr91/cattr91/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Hata İlet</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Özellik Talep Et</a>
+    <a href="https://github.com/cattr91/cattr91/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Özellik Talep Et</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -57,7 +57,7 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-<p align="center">Projeyi sevdiniz mi? Daha da gelişmesi için lütfen <a href="https://www.paypal.me/anuraghazra">bağış</a> yapın!
+<p align="center">Projeyi sevdiniz mi? Daha da gelişmesi için lütfen <a href="https://www.paypal.me/cattr91">bağış</a> yapın!
 
 # Features <!-- omit in toc -->
 
@@ -91,7 +91,7 @@ Alt kısımdaki kodu Kopyalayın ve yapıştırın. İşte bu kadar. Çok basit!
 `?username=` değerini kendi GitHub kullanıcı adınız ile değiştirin.
 
 ```md
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag'nın GitHub İstatistikleri](https://cattr91.vercel.app/api?username=cattr91)](https://github.com/cattr91/cattr91)
 ```
 _Not: Şu sıralamalar mevcut: S+ (en üst 1%), S (en üst 25%), A++ (en üst 45%), A+ (en üst 60%), and B+ (herkes).
 Buradaki değerler [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) ile hesaplanırken; commitler, katkılar, hatalar, yıldızlar, çekme istekleri, takipçiler ve sahip olunan depolar (repository) göz önünde bulundurulamaktadır.
@@ -104,7 +104,7 @@ Bazı belirli istatistikleri gizlemek için `?hide=` paremetresi içerisinde vir
 > Örnek: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&hide=contribs,prs)
+![mustafacagri's github stats](https://cattr91.vercel.app/api?username=mustafacagri&hide=contribs,prs)
 ```
 
 ### Özel Katkı Sayısını Toplam Commit Sayısına Ekleme
@@ -116,7 +116,7 @@ _Not: Eğer projeyi kendiniz yayınlayıp kullanacaksanız, özel depolardaki ge
 > Örnek: `&count_private=true`
 
 ```md
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&count_private=true)
+![mustafacagri's github stats](https://cattr91.vercel.app/api?username=mustafacagri&count_private=true)
 ```
 
 ### İkonları Göstermek
@@ -124,7 +124,7 @@ _Not: Eğer projeyi kendiniz yayınlayıp kullanacaksanız, özel depolardaki ge
 Eğer ikonları göstermek istiyorsanız, `show_icons=true` parametresini göndermeniz gerekmektedir. Örnek olarak:
 
 ```md
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true)
+![mustafacagri's github stats](https://cattr91.vercel.app/api?username=mustafacagri&show_icons=true)
 ```
 
 ### Temalar
@@ -134,14 +134,14 @@ Dahili olarak gelen temalarla, herhangi bir [manuel özelleştirme](#özelleşti
 `?theme=THEME_NAME` parametresini kullanabilirsiniz:
 
 ```md
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![mustafacagri's github stats](https://cattr91.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 ```
 
 #### Tüm Dahili Temalar :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Temaları" width="600px"/>
+<img src="https://res.cloudinary.com/cattr91/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Temaları" width="600px"/>
 
 Önizleme yapmak için şuralara göz atabilirsiniz: [tüm dahili temalar](./themes/README.md) veya [tema ayar dosyası](./themes/index.js) & **ayrıca siz de yeni bir tema oluşturarak katkı sağlayabilirsiniz** elbette isterseniz :D
 
@@ -222,25 +222,25 @@ Hey! Artık 6 pin ile kısıtlı kalmayacaksınız!
 
 Alttaki kodu kopyalayıp readme dosyanıza urlleri değiştirerek yapıştırın.
 
-Endpoint: `api/pin?username=mustafacagri&repo=github-readme-stats`
+Endpoint: `api/pin?username=mustafacagri&repo=cattr91`
 
 ```md
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://cattr91.vercel.app/api/pin/?username=mustafacagri&repo=cattr91)](https://github.com/cattr91/cattr91)
 ```
 
 ### Demo
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://cattr91.vercel.app/api/pin/?username=mustafacagri&repo=cattr91)](https://github.com/cattr91/cattr91)
 
 [show_owner](#özelleştirmeler) ile reponun sahibini gösterebilirsiniz.
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://cattr91.vercel.app/api/pin/?username=mustafacagri&repo=cattr91&show_owner=true)](https://github.com/cattr91/cattr91)
 
 # En Çok Kullanılan Diller
 
 En çok kullanılan diller kartı kullanıcının en çok kullandığı dilleri gösterir.
 
-_NOTE: En çok kullanılan dillerde yer alan bilgiler sizin yeteneğinizi ve benzeri şeyleri göstermek. Bu, kodlarınızda en çok kullandığınız dilleri gösteren bir GitHub metriğidir. Ayrıca, github-readme-stats'ın yeni özelliğidir.
+_NOTE: En çok kullanılan dillerde yer alan bilgiler sizin yeteneğinizi ve benzeri şeyleri göstermek. Bu, kodlarınızda en çok kullandığınız dilleri gösteren bir GitHub metriğidir. Ayrıca, cattr91'ın yeni özelliğidir.
 
 ### Kullanım
 
@@ -249,7 +249,7 @@ Alttaki kodu kopyalayıp readme dosyanıza urlleri değiştirerek yapıştırın
 Endpoint: `api/top-langs?username=mustafacagri`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/cattr91/cattr91)
 ```
 
 ### Belirli Repoları Çıkartın
@@ -257,7 +257,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `?exclude_repo=repo1,repo2` parametresini kullanarak istediğiniz repoları çıkartabilirsiniz.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91&exclude_repo=cattr91,cattr91.github.io)](https://github.com/cattr91/cattr91)
 ```
 
 ### Belirli Dilleri Çıkartın
@@ -265,7 +265,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `?hide=language1,language2` parametresini kullanarak istediğiniz dilleri çıkartabilirsiniz.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=mustafacagri&hide=javascript,html)](https://github.com/cattr91/cattr91)
 ```
 
 ### Daha Fazla Dil Gösterin
@@ -273,7 +273,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `&langs_count=` parametresini kullanarak kartınızda gösterilen dil sayısını azaltabilir ya da artırabilirsiniz. Varsayılan değeri 5, kullanılabilir sayı aralığı ise 1-10'dur.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=mustafacagri&langs_count=8)](https://github.com/cattr91/cattr91)
 ```
 
 ### Kompakt Dil Kartı Düzeni
@@ -281,34 +281,34 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `&layout=compact` parametresiyle kart tasarımınızı değiştirebilirsiniz.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/cattr91/cattr91)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/cattr91/cattr91)
 
 - Kompakt Düzen / Layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/cattr91/cattr91)
 
 # WakaTime Haftalık İstatistikler
 
 `?username=` değerini [WakaTime](https://wakatime.com)'daki kullanıcı adınızla değiştirin.
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://cattr91.vercel.app/api/wakatime?username=ffflabs)](https://github.com/cattr91/cattr91)
 ```
 
 ### Demo
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://cattr91.vercel.app/api/wakatime?username=ffflabs)](https://github.com/cattr91/cattr91)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://cattr91.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/cattr91/cattr91)
 
 - Kompakt Düzen
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://cattr91.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/cattr91/cattr91)
 
 ---
 
@@ -316,49 +316,49 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://cattr91.vercel.app/api?username=cattr91)
 
 - Belirli istatistikler gizli
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&include_all_commits=true)
 
 - Temalar
 
 [default themes](#themes) adresinden istediğiniz temayı seçin.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://cattr91.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://cattr91.vercel.app/api?username=cattr91&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://cattr91.vercel.app/api/?username=cattr91&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's GitHub stats](https://cattr91.vercel.app/api/?username=cattr91&locale=es)
 
 - Repo kartı düzenleyin
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://cattr91.vercel.app/api/pin?username=cattr91&repo=cattr91&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - En çok kullanılan diller
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91)](https://github.com/cattr91/cattr91)
 
 - WakaTime kart
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://cattr91.vercel.app/api/wakatime?username=ffflabs)](https://github.com/cattr91/cattr91)
 
 ---
 
@@ -367,11 +367,11 @@ Endpoint: `api/top-langs?username=mustafacagri`
 Genellikle resimleri yan yana düzenleyemezsiniz. Bunu yapmak için şu yaklaşımı kullanabilirsiniz:
 
 ```html
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/cattr91/cattr91">
+  <img align="center" src="https://cattr91.vercel.app/api/pin/?username=cattr91&repo=cattr91" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/cattr91/convoychat">
+  <img align="center" src="https://cattr91.vercel.app/api/pin/?username=cattr91&repo=convoychat" />
 </a>
 ```
 
@@ -380,12 +380,12 @@ Genellikle resimleri yan yana düzenleyemezsiniz. Bunu yapmak için şu yaklaş�
 
 #### [@codeSTACKr'ın Yayınladığı Video Eğitimine Göz Atın](https://youtu.be/n6d4KHSKqGk?t=107)
 
-GitHub API saatte sadece 5.000 isteğe izin verdiği için `https://github-readme-stats.vercel.app/api` adresindeki API'm bu limite muhtemelen takılmış olabilir. Eğer projeyi kendi Vercel sunucunuzda yayınlarsanız, böyle bir sorun yaşamayabilirsiniz. Deploy butonuna tıkla ve deploy başlasın!
+GitHub API saatte sadece 5.000 isteğe izin verdiği için `https://cattr91.vercel.app/api` adresindeki API'm bu limite muhtemelen takılmış olabilir. Eğer projeyi kendi Vercel sunucunuzda yayınlarsanız, böyle bir sorun yaşamayabilirsiniz. Deploy butonuna tıkla ve deploy başlasın!
 
 
-NOT: [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) geliştirmesi sonrasında anlamadığımız bir şekilde 5.000 istek limitine takılmıyoruz :)
+NOT: [#58](https://github.com/cattr91/cattr91/pull/58) geliştirmesi sonrasında anlamadığımız bir şekilde 5.000 istek limitine takılmıyoruz :)
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/cattr91/cattr91)
 
 <details>
  <summary><strong> Vercel Kurulum Rehberi  🔨 </strong></summary>
@@ -416,9 +416,9 @@ bu zaman alıyor. Destekleriniz sayesinde bu hizmeti ücretsiz olarak kullanabil
 
 Ayrıca, bu projeyi kullanıyor ve memnunsanız veya sadece bir şeyler yaratmaya devam etmem için beni teşvik etmek istiyorsanız, bunu yapmanın birkaç yolu var: -
 
-- Readme'nizde github-readme-stats'ı kullanırken bu projeye uygun bir link verebilirsiniz.
+- Readme'nizde cattr91'ı kullanırken bu projeye uygun bir link verebilirsiniz.
 - Projeye yıldız verebilir ve paylaşabilirsiniz :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - PayPal ile tek seferlik bağış yapabilirsiniz. Muhtemelen bir ~~kahve~~ ya da çay :tea: alacağım. 
+- [![paypal.me/cattr91](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/cattr91) - PayPal ile tek seferlik bağış yapabilirsiniz. Muhtemelen bir ~~kahve~~ ya da çay :tea: alacağım. 
 
 Teşekkürler! :heart:
 
