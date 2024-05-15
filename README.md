@@ -21,13 +21,14 @@
 
 <!-- [![Readme Card](https://cattr91.vercel.app/api/pin/?username=cattr91&repo=cattr91)](https://github.com/cattr91/cattr91) -->
 
-### GitHub Stats
+<!-- ### GitHub Stats
 
 ![cattr91's GitHub stats](https://cattr91.vercel.app/api/?username=cattr91&show_icons=true&theme=radical)
 
 [![Top Langs](https://cattr91.vercel.app/api/top-langs/?username=cattr91&layout=donut)](https://github.com/cattr91/cattr91)
 
-<img src="./tests/img/topics-plot-donut-04.png" width="580" height="300">
+<img src="./tests/img/topics-plot-donut-04.png" width="580" height="300"> -->
+
 <!-- ![donut-topics](/tests/img/topics-plot-donut-04.png) -->
 
 
@@ -35,4 +36,5 @@
     <img src="https://cattr91.vercel.app/api?username=cattr91&show_icons=true&theme=radical" alt="cattr91's GitHub stats">
     <img src="https://cattr91.vercel.app/api/top-langs/?username=cattr91&layout=donut" alt="Top Langs">
 </div> -->
+
 
